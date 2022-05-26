@@ -1,0 +1,205 @@
+<html>
+<head>
+<title>Pearls&Diamonds Movie website</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+}
+body {
+background-color:lightblue;
+opacity:0.8;
+
+p{
+font-size:20px;
+}
+
+}
+h1{
+text-align:center;
+}
+h2{
+font-size:18px;
+text-align:centre;
+padding:2% 6%;
+}
+h3{
+padding:2% 6%;
+margin:10;
+}
+ul{ 
+text-align:center;
+text-decoration:none;
+opacity:0.8;
+display:flex;
+list-style:none;
+padding:14px 16px;
+}
+
+nav{
+padding:2% 6%;
+justify-content:space-between;
+text-align:center;
+list-style:none;
+}
+ a{
+text-decoration:none;
+padding:14px 20px;
+}
+.active{
+background-color:white;
+
+}
+.movie-container{
+margin:25px;
+max-width:1000px;
+}
+.movie-container img{
+float:left;
+width:50%;
+height:100%;
+}
+.movie-detail{
+margin-left:300px;
+}
+.movie-detail p{
+font-size:20px;
+float:left;
+}
+
+
+</style>
+
+</head>
+<body>
+<a href="index.html"><img src="logo3.png" width="50px" height="80px"></a>
+<h1>PEARLS & DIAMONDS</h1>
+
+
+<ul>
+<li><a href="index.html">HOME</a></li>
+<li><a href="movies.html">MOVIES</a></li>
+<li><a href="upcoming.html">UPCOMING</a></li>
+<li><a href="now showing.html">NOW SHOWING</a></li>
+<li><a class="active" href="categories.html">CATEGORIES</a></li>
+<li><a href="contact.html">CONTACT US</a></li>
+
+</ul>
+
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imageR1.jpg">
+<div class="movie-details">
+<h2>Title : <span>AFTER</span></h2>
+<h2>Genre: <span>Romance/Drama</span></h2>
+<h2>Release date : <span>2019 April 12</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgR5.jpg">
+<div class="movie-details">
+<h2>Title : <span>ENDLESS LOVE</span></h2>
+<h2>Genre: <span>Romance</span></h2>
+<h2>Release date : <span>July 17 2002</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgR10.jpg">
+<div class="movie-details">
+<h2>Title : <span>MIDNIGHT SUN</span></h2>
+<h2>Genre: <span>Romance/Drama</span></h2>
+<h2>Release date : <span>2018 March 23</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgR9.jpg">
+<div class="movie-details">
+<h2>Title : <span>LIFE IN A YEAR</span></h2>
+<h2>Genre: <span>Romance/Drama</span></h2>
+<h2>Release date : <span>2020 November 27</span></h2>
+</div>
+</div>
+</section>
+
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="image16.jpg">
+<div class="movie-detail">
+<h2>Title : <span>THE IN BETWEEN</span></h2>
+<h2>Genre : <span>Romance</span></h2>
+<h2>Release date : <span>2010 December 24</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgR8.jpg">
+<div class="movie-details">
+<h2>Title : <span>THE LAST SONG</span></h2>
+<h2>Genre: <span>Romance/Music</span></h2>
+<h2>Release date : <span>March 31 2010</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="download.jpg">
+<div class="movie-details">
+<h2>Title : <span>MATCH POINT</span></h2>
+<h2>Genre: <span>Romance</span></h2>
+<h2>Release date : <span>January 06 2013</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgR6.jpg">
+<div class="movie-details">
+<h2>Title : <span>THE FAULT IN OUR STARS</span></h2>
+<h2>Genre: <span>Romance</span></h2>
+<h2>Release date : <span>2016 JULY 19</span></h2></div>
+</div>
+</section>
+
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="image14.jpg">
+<div class="movie-detail">
+<h2>Title : <span>FIVE FEET APART</span></h2>
+<h2>Genre : <span>Romance</span></h2>
+<h2>Date realesed : <span>October 10 2017</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="image15.jpg">
+<div class="movie-detail">
+<h2>Title : <span>THE KISSING BOOTH</span></h2>
+<h2>Genre : <span>Romance/Drama</span></h2>
+<h2>Release date : <span>August 06 2018</span></h2>
+</div>
+</div>
+</section>
+
+
+</body>
+
+</html>

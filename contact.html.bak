@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Pearls&Diamonds Movie website</title>
+<link rel="stylesheet" href="stylesheet1.css"
+<style>
+
+
+</style>
+
+</head>
+
+<body>
+<a href="index.html"><img src="logo3.png" width="500px" height="80px"></a>
+<h1>PEARLS & DIAMONDS</h1>
+
+<ul>
+<li><a href="index.html">HOME</a></li>
+<li><a href="movies.html">MOVIES</a></li>
+<li><a href="upcoming.html">UPCOMING</a></li>
+<li><a href="now showing.html">NOW SHOWING</a></li>
+<li><a href="categories.html">CATEGORIES</a></li>
+<li><a class="active" href="contact.html">CONTACT US</a></li>
+</ul>
+
+<h2>COME ENOJOY YOUR RECREATION TIME WITH US</h2>
+
+<p>You want to stay connected with us?<br>
+Contact us anytime at:<br>
+pearls@gmail.com<br>
+diamonds@gmail.com<br>
++267 45566<br>
++267 74745064<br>
++267 72968832<br>
+</p>
+
+<p>Francstown theatre at Torojucntion mall<br>
+Opening : Friday at 5pm<br> Saturday 4pm<br> Sunday 3pm
+</p>
+<h3>email at pearls@gmail.com<br> contact us at +267 74745064</h3>
+<p>Gaborone theatre at Riverwalk mall<br>
+Opening : Friday at 5pm<br> Saturday 4pm<br> Sunday 3pm</p>
+<h3>email at diamonds@gmail.com<br> contact us at +267 72968832</h3>
+
+
+</body>
+
+
+
+</html>

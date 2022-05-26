@@ -1,0 +1,166 @@
+<html>
+<head>
+<title>Pearls&Diamonds Movie website</title>
+<link rel="stylesheet" href="stylesheet1.css"
+<style>
+
+
+</style>
+
+</head>
+<body>
+<a href="index.html"><img src="logo3.png" width="500px" height="80px"></a>
+<h1>PEARLS & DIAMONDS</h1>
+
+
+
+<ul>
+<li><a href="index.html">HOME</a></li>
+<li><a href="movies.html">MOVIES</a></li>
+<li><a href="upcoming.html">UPCOMING</a></li>
+<li><a class="active"  href="now showing.html">NOW SHOWING</a></li>
+<li><a href="categories.html">CATEGORIES</a></li>
+<li><a href="contact.html">CONTACT US</a></li>
+<li><a href="Tickets.html">TICKETS<a/></li>
+</ul>
+</div>
+
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgbob.jpg">
+<div class="movie-detail">
+<h2>Title : <span>THE SPONGEBOB MOVIE: SPONGE ON THE RUN</span></h2><h2>
+<h2>Genre : <span>Animation/Comedy</span></h2>
+<h2>Release date : March 03 2021
+<p>After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.</p> 
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imglet.jpg">
+<div class="movie-detail">
+<h2>Title:<span>LET IT SNOW</span></h2>
+<h2>Genre : <span>Romance/Comedy</span></h2>
+<h2>Release date : <span>2019 November 8</span></h2>
+<p>Comedy Romance In a small town on Christmas Eve, a snowstorm brings together a group of young people.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgboy.jpg">
+<div class="movie-detail">
+<h2>Title:<span>iBOY</span></h2>
+<h2>Genre : <span>Adventure/Action</span></h2>
+<h2>Release date : <span>2017 January 19</span></h2>
+<p>When shards of a cell phone get lodged in a teenager's brain, he discovers he can control electronic devices and uses his newfound power for revenge. </p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="img100.jpg">
+<div class="movie-detail">
+<h2>Title:<span>GHOST STORIES</span></h2>
+<h2>Genre : <span>Horror</span></h2>
+<h2>Release date : <span>2020 July 12</span></h2>
+<p>Ghost Stories is a 2020 Indian Hindi-language anthology horror film, consisting of four short film segments</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgdeep.jpg">
+<div class="movie-detail">
+<h2>Title:<span>THE DEEP HOUSE</span></h2>
+<h2>Genre : <span>Horror</span></h2>
+<h2>Release date : <span>2021 February 02</span></h2>
+<p>A young and modern couple who go to France to explore an underwater house and share their findings on social media undergoes a serious change of plans when the couple enters the interior of a strange house at the bottom of the lake.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgtick.jpg">
+<div class="movie-detail">
+<h2>Title:<span>tick,tick..BOOM</span></h2>
+<h2>Genre : <span>Drama/Musical</span></h2>
+<h2>Release date : <span>11 April 2021</span></h2>
+<p>On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship and the pressures of life as an artist in New York City.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgcm.jpg">
+<div class="movie-detail">
+<h2>Title:<span>C'MON C'MON</span></h2>
+<h2>Genre : <span>Drama</span></h2>
+<h2>Release date : <span>2020 August 03</span></h2>
+<p>When his sister asks him to look after her son, a radio journalist embarks on a cross-country trip with his energetic nephew to show him life away from Los Angeles.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgtr.jpg">
+<div class="movie-detail">
+<h2>Title:<span>THE TIGER RISING</span></h2>
+<h2>Genre : <span>Family</span></h2>
+<h2>Release date : <span>2022 February 08</span></h2>
+<p>A young boy discovers a caged tiger in the woods near his home.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imgair.jpg">
+<div class="movie-detail">
+<h2>Title:<span>A MOUTHFUL AIR</span></h2>
+<h2>Genre : <span>Drama</span></h2>
+<h2>Release date : <span>10 October 2021</span></h2>
+<p>a depressing, humanist movie that doesn’t offer viewers much hope. The movie deals with issues of abuse, depression and suicide. Sadly, there’s no final resolution or hopeful message.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imggift.jpg">
+<div class="movie-detail">
+<h2>Title:<span>THE GIRL WITH ALL THE GIFTS</span></h2>
+<h2>Genre : <span>Thriller/Drama/Action</span></h2>
+<h2>Release date : <span>May 02 2016</span></h2>
+<p>The film depicts a dystopian future following a breakdown of society after most of humanity is wiped out by a fungal infection.</p>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imge.jpg">
+<div class="movie-detail">
+<h2>Title:<span>EVERYTHING EVERYTHING</span></h2>
+<h2>Genre : <span>Drama/Romance</span></h2>
+<h2>Release date : <span>2017 June 06</span></h2>
+<p>A teenager who's spent her whole life confined to her home falls for the boy next door.</p>
+</div>
+</div>
+</section>
+
+
+</body>
+
+
+
+</html>

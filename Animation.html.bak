@@ -1,0 +1,169 @@
+<html>
+<head>
+<title>Pearls&Diamonds Movie website</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+}
+body {
+background-color:lightblue;
+opacity:0.8;
+
+p{
+font-size:20px;
+}
+
+}
+h1{
+text-align:center;
+}
+
+h2{
+font-size:18px;
+
+}
+
+ul{ 
+text-align:center;
+text-decoration:none;
+opacity:0.8;
+display:flex;
+list-style:none;
+padding:14px 16px;
+}
+
+
+ a{
+text-decoration:none;
+padding:14px 20px;
+}
+.active{
+background-color:white;
+
+}
+.movie-container{
+margin:20px;
+max-width:1000px;
+}
+.movie-container img{
+float:left;
+width:45%;
+height:100%;
+}
+.movie-detail{
+margin-left:200px;
+}
+
+
+</style>
+
+</head>
+<body>
+<a href="index.html"><img src="logo3.png" width="50px" height="80px"></a>
+<h1>PEARLS & DIAMONDS</h1>
+
+
+<ul>
+<li><a href="index.html">HOME</a></li>
+<li><a href="movies.html">MOVIES</a></li>
+<li><a href="upcoming.html">UPCOMING</a></li>
+<li><a href="now showing.html">NOW SHOWING</a></li>
+<li><a class="active"href="categories.html">CATEGORIES</a></li>
+<li><a href="contact.html">CONTACT US</a></li>
+</ul>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imagea1.jpg">
+<div class="movie-detail">
+<h2>Title : <span>FROZEN</span></h2>
+<h2>Genre: <span>Animation/Adventure</span></h2>
+<h2>Release date : <span>2013 November 27</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="image20.jpg">
+<div class="movie-detail">
+<h2>Title : <span>BRAVE</span></h2> 
+<h2>Genre : <span>Animation/Action</span></h2>
+<h2>Release date : <span>June 24 2017</span></h2>
+</div>
+</div>
+</section>
+
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imagea2.jpg">
+<div class="movie-detail">
+<h2>Title : <span>THE POLAR EXPRESS</span></h2>
+<h2>Genre: <span>Animation/Comedy</span></h2>
+<h2>Release date : <span>2004 10 November</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imagea4.jpg">
+<div class="movie-detail">
+<h2>Title : <span>SHREK</span></h2>
+<h2>Genre: <span>Animation/Fantasy</span></h2>
+<h2>Release date : <span>2001 May 18</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imagea3.jpg">
+<div class="movie-detail">
+<h2>Title : <span>THE CROODS</span></h2>
+<h2>Genre: <span>Animation/Adventure/Family</span></h2>
+<h2>Release date : <span>22 March 2013</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="image22.jpg">
+<div class="movie-detail">
+<h2>Title : <span>INSIDE OUT</span></h2>
+<h2>Genre : <span>Anime</span></h2>
+<h2>Release date : <span>21 February 2011</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imagea6.jpg">
+<div class="movie-detail">
+<h2>Title : <span>ANASTIASIA</span></h2>
+<h2>Genre: <span>Animation/Family</span></h2>
+<h2>Release date : <span>1997 November 21</span></h2>
+</div>
+</div>
+</section>
+
+<section style="display:flex; flex-direction:row; gap:10px">
+<div class="movie-container">
+<img src="imagea5.jpg">
+<div class="movie-detail">
+<h2>Title : <span>SING</span></h2>
+<h2>Genre: <span>Animation/Comedy/Musical</span></h2>
+<h2>Release date : <span>2016 21 December</span></h2>
+</div>
+</div>
+</section>
+
+
+
+</body>
+</html>
